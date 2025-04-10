@@ -7,7 +7,7 @@ Este proyecto fue realizado como parte de la materia **Gestión del Emprendimien
 ## 👩‍💻 Autora
 
 **Priscila Kwiatkowski**  
-Cohorte 2022 | Tecnicatura en Innovación con Tecnologías 4.0
+| Tecnicatura en Innovación con Tecnologías 4.0
 
 ---
 
