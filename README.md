@@ -67,6 +67,6 @@ Este proyecto representa un análisis más enfocado en la exploración inicial y
 
 ## 📬 Contacto
 
-Podés ver más de mi trabajo en [tu perfil de GitHub si querés agregarlo].
+Podés ver más de mi trabajo en [https://github.com/Priska-87].
 
 
