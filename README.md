@@ -56,7 +56,7 @@ Este proyecto representa un análisis más enfocado en la exploración inicial y
 ---
 
 ## Visualización de datos
-[Ver Dashboard])(https://app.powerbi.com/view?r=eyJrIjoiMTA0YThlMzItM2ZkMy00Yjg3LWFiNGEtZTc0M2Q4N2FhNWRlIiwidCI6IjIzNzc0NzJlLTgwMDQtNDY0OC04NDU2LWJkOTY4N2FmYTE1MCIsImMiOjR9)
+[Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTA0YThlMzItM2ZkMy00Yjg3LWFiNGEtZTc0M2Q4N2FhNWRlIiwidCI6IjIzNzc0NzJlLTgwMDQtNDY0OC04NDU2LWJkOTY4N2FmYTE1MCIsImMiOjR9)
 
 ---
 
